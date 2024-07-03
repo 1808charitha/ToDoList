@@ -1,0 +1,26 @@
+
+ * {
+    padding: 25px;
+    align-items: center;
+    justify-content: center;
+    font-size: xx-large;
+}
+
+div {
+    background-color: rgb(178, 241, 241);
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+
+button
+{
+    color: rgb(15, 14, 14);
+    margin: 10px;
+
+}
+
+button:hover {
+    color: black;
+    background-color: rgb(91, 80, 243);
+}
